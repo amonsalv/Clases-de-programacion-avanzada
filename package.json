@@ -1,16 +1,20 @@
 {
-  "name": "programacionavanzada",
+  "name": "avanzadas2023",
   "version": "1.0.0",
-  "description": "Hola mundo con node",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [
-    "let",
-    "vs",
-    "var"
-  ],
-  "author": "Amonsalv",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amonsalv/avanzadas2023.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amonsalv/avanzadas2023/issues"
+  },
+  "homepage": "https://github.com/amonsalv/avanzadas2023#readme"
 }
