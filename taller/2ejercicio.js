@@ -12,3 +12,18 @@ Tenga en cuenta que el formato de todos los datos es el siguiente:
 Acosejo revisar el metodo split()
 */
 
+let nombresPiloto=[
+    {
+        codigo:ARQ2555,
+        nombre:"Sara Bel-Sun"
+        },
+    {
+        codigo:ARQ2556,
+        nombre:"Nodin Chavdri"
+    },
+    {
+        codigo:ARQ2557,
+        nombre:"Finn"
+    }
+]
+
