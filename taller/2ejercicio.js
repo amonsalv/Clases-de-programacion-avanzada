@@ -11,19 +11,13 @@ Tenga en cuenta que el formato de todos los datos es el siguiente:
 
 Acosejo revisar el metodo split()
 */
-
-let nombresPiloto=[
-    {
-        codigo:ARQ2555,
-        nombre:"Sara Bel-Sun"
-        },
-    {
-        codigo:ARQ2556,
-        nombre:"Nodin Chavdri"
-    },
-    {
-        codigo:ARQ2557,
-        nombre:"Finn"
-    }
-]
-
+function separar(codigoNave) {
+    const partes = codigoNave.split(':');
+    const nombrePiloto = partes[1].trim();
+    console.log(nombrePiloto);
+  }
+  
+  // Ejemplo de uso:
+  separar('ARQ2555: Sara Bel-Sun');
+  separar('ARQ2556: Nodin Chavdri');
+  separar('ARQ2557: Finn');
