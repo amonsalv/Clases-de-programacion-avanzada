@@ -13,7 +13,15 @@ energía. Finalmente, una función callback debe permitir entregar la
 sumatoria de niveles de energía entregados por los alimentos vegetales
 consumidos en la dieta de Grogu.*/
 
-function clasificarAlimento(){}
+
+
+function clasificarAlimento(){
+
+
+
+}
+
+//Definimos el array para los alimentos
 
 let alimento = [
     {
@@ -24,4 +32,3 @@ let alimento = [
 
 ]
  
-
