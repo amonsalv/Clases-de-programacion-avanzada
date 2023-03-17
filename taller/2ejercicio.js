@@ -12,8 +12,8 @@ Tenga en cuenta que el formato de todos los datos es el siguiente:
 Acosejo revisar el metodo split()
 */
 function separar(codigoNave) {
-    const partes = codigoNave.split(':');
-    const nombrePiloto = partes[1].trim();
+    let partes = codigoNave.split(':');
+    let nombrePiloto = partes[1].trim();
     console.log(nombrePiloto);
   }
   

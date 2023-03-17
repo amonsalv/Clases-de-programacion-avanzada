@@ -13,7 +13,7 @@ let comisionVendida = 1500000;
 
 //Agregamos una variable para que este calcule cada lincencia de vendida que hizo el vendedor, dada por el usuario que lo solicita, ojo esta es distinta, ya que es la cantidad, ya sabemos cuanto vale la comision, falta saber cuantas vendio
 
-let licenciasVendidas = 5;
+let licenciasVendidas = 5; //le damos cualquier valor
 
 //Calculamos primero la comision total (lo que vale la comision por las lincencias vendidas)
 
